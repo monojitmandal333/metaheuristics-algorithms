@@ -1,0 +1,12 @@
+pyzmq==25.1.2
+ipykernel==6.29.5
+numpy==1.26.4
+# pandas==2.2.2
+polars==0.20.31
+# pyomo==6.7.3
+# plotly==5.22.0
+# xlsx2csv
+# xlsxwriter
+# timefold == 1.11.0b0
+pydantic == 2.7.3
+# pytest == 8.2.2
